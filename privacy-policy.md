@@ -3,6 +3,8 @@ layout: post
 title: Privacy Policy
 author: Alex Evdokimenko
 ---
+# Questbly Privacy Policy
+
 *This Questbly Data Privacy Policy was updated on December 1, 2020.*
 
 Questbly is committed to protecting your privacy. This Data Privacy Policy tells you about Questbly’s policy and practice for the collection, use, processing, storage, transfer, protection, and disclosure of information that we may collect about you through our website, www.questbly.com, or any subdomains, Questbly websites, marketing events or our partners. 
@@ -11,7 +13,6 @@ Before you access and use our websites or submit your personal information to us
 The collection, use, processing, storage, transfer and disclosure of your Personal Information (as defined below) will be limited to the terms under which you provide Questbly your authorization. Questbly is committed to compliance with all relevant country-specific data privacy laws, including EU Standard Contractual Clauses, model contracts / transfer agreements, privacy statements and policies, and country-specific filings if applicable. This Data Privacy Policy covers www.questbly.com and all other Questbly websites.
 
 ## Collection of Your Personal Information
-
 Personal information (“Personal Information”) is data that can be used to identify, either directly or indirectly, an individual to whom the information applies. The information that we may collect from you includes your name, mailing address, phone number, email address, contact preferences, occupation, login information (account number, password), marketing preferences, social media account information, and as applicable, IP address. 
 
 Questbly will not collect any Personal Information about you unless you voluntarily choose to provide it to us (e.g. to obtain a newsletter subscription, white papers, participate in surveys, generate product downloads, register for marketing events, promotions or job applications), you provide your explicit consent, or unless it is permitted by applicable laws and regulations. You can always “opt out” at any time by visiting your subscription preferences page, click the "unsubscribe" link in any email or visit the Questbly unsubscribe page.
