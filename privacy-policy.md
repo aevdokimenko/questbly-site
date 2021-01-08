@@ -1,6 +1,3 @@
----
-layout: page
----
 # Questbly Privacy Policy
 
 *This Questbly Data Privacy Policy was updated on December 1, 2020.*
