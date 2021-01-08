@@ -2,7 +2,6 @@
 layout: post
 title: Privacy Policy
 ---
-<pre>
 This Questbly Data Privacy Policy was updated on December 1, 2020
 Questbly is committed to protecting your privacy. This Data Privacy Policy tells you about Questbly’s policy and practice for the collection, use, processing, storage, transfer, protection, and disclosure of information that we may collect about you through our website, www.questbly.com, or any subdomains, Questbly websites, marketing events or our partners. 
 Before you access and use our websites or submit your personal information to us, you will be asked to provide your authorization and consent by agreeing to the terms and conditions of this Questbly Data Privacy Policy and consenting to the collection, your submission (if applicable), and processing of information about you as described herein, in compliance with relevant data protection laws. 
@@ -55,5 +54,4 @@ Questbly will not knowingly collect Personal Information from any person that is
 Changes to this Privacy Policy
 As a technology company, our systems will mature and change as will this Data Privacy Policy. Changes to this Data Privacy Policy with the most recent revision date will be posted at www.questbly.com. We will take the steps to notify you of the material changes to this Data Privacy Policy by posting the changes here or contacting you by e-mail.
 Questions
-Questbly is committed to responding to reasonable requests to review any of your Personal Information we may have and to amend, correct, or delete any inaccuracies. To have your information amended, corrected, or deleted, or if you have any questions that weren’t answered in this Data Privacy Policy, you can contact us at Questbly Software Group GmbH, Linden Park Lindenstrasse 16 Baar, CH-6340 or email us at privacy@questbly.com.
-</pre>
+Questbly is committed to responding to reasonable requests to review any of your Personal Information we may have and to amend, correct, or delete any inaccuracies. To have your information amended, corrected, or deleted, or if you have any questions that weren’t answered in this Data Privacy Policy, you can contact us at privacy@questbly.com.
